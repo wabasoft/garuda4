@@ -1,1 +1,1 @@
-README
+Default branch will be protected
